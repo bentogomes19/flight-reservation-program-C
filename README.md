@@ -33,14 +33,14 @@ consultation or reservation, the program returns to the main menu.
 
 input the informations flight (number, origin, destination and number of seats available)
 
-<img src="/images/gif01.gif" height="300" width="600">
+<img src="/images/gif01.gif" height="330" width="600">
 
 the program should present a menu with the following options:
 ■■ consult;
 ■■ make a reservation; It is
 ■■ leave.
 
-<img src="/images/gif02.gif">
+<img src="/images/gif02.gif" height="330" width="600">
 
 
 When the option chosen is Consult, another menu should be available with the following
@@ -49,11 +49,11 @@ options:
     ■■ by origin; It is
     ■■ by destination.
 
-<img src="/images/gif03.gif">
+<img src="/images/gif03.gif" height="330" width="600">
 
  ■■ confirmed reservation — if the flight and seat are available, canceling available seats;
 
- <img src="/images/gif04.gif">
+ <img src="/images/gif04.gif" height="330" width="600">
 
 
 
