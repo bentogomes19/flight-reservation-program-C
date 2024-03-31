@@ -33,7 +33,7 @@ consultation or reservation, the program returns to the main menu.
 
 input the informations flight (number, origin, destination and number of seats available)
 
-<img src="/images/gif01.gif" height="600" width="600">
+<img src="/images/gif01.gif" height="300" width="600">
 
 the program should present a menu with the following options:
 ■■ consult;
